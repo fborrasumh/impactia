@@ -1,0 +1,17 @@
+{
+  "name": "ImpactIA · Puesto de trabajo del técnico de aceleración",
+  "short_name": "ImpactIA",
+  "description": "Expediente, diagnóstico 360º, financiación, consorcios e inversión para técnicos de parques científicos. Local-first.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F6FA",
+  "theme_color": "#0F2237",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}
