@@ -4,6 +4,8 @@ El puesto de trabajo del técnico de aceleración de un parque científico. Apli
 
 **Usar la app:** https://fborrasumh.github.io/impactia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23453078.svg)](https://doi.org/10.5281/zenodo.23453078)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt`).
 
 > La IA analiza, propone y acelera. El código comprueba citas, cifras y requisitos. El técnico decide.
@@ -63,7 +65,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. (2026). *ImpactIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. (2026). *ImpactIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23453078](https://doi.org/10.5281/zenodo.23453078)
 
 ## Licencia
 
